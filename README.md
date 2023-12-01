@@ -1,0 +1,2 @@
+# YapayZekaAbone
+YapayZekaAbone
